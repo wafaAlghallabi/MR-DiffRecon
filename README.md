@@ -30,7 +30,6 @@ Akshay Dudhane¹ &nbsp; · &nbsp;
 ## 📢 Latest Updates
 
 - 🎉 **[2026]** MR-DiffRecon accepted to the **MIRASOL Workshop at MICCAI 2026**.
-- 📄 **[2026]** Camera-ready manuscript finalized.
 - 💻 **[In progress]** Training, testing, checkpoints, and reproducibility scripts are being prepared for public release.
 
 ---
